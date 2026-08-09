@@ -8,10 +8,10 @@
   <br />
 
   <p align="center">
-    💻 <b>MERN Stack Developer</b> specializing in crafting clean, high-performance web applications.
+    💻 <b>MERN Stack Developer</b> specializing in building modern, performant & scalable web applications.
   </p>
 
-  <!-- Clean Pill Buttons -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmed-essam-elhady/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Core Technologies
+### 🚀 Tech Stack
 
 <div align="center">
 
@@ -40,41 +40,32 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 🟩 Yearly Contribution Calendar
 
 <div align="center">
-  <!-- Interactive Dynamic Contribution Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a7med3sam&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" alt="Ahmed's GitHub Activity Graph" />
+
+  <!-- Direct GitHub Calendar Heatmap SVG (Shows full year real activity) -->
+  <img width="100%" src="https://ghchart.rshah.org/00F5FF/a7med3sam" alt="Ahmed's Full Year Contributions" />
+
 </div>
 
 <br />
 
 <div align="center">
 
-  <!-- GitHub Performance Stats Side-by-Side -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=a7med3sam&show_icons=true&theme=cyan&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3sam&layout=compact&theme=cyan&hide_border=true" />
+  <!-- GitHub Main Stats Card with Private Commits Enabled -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=a7med3sam&show_icons=true&theme=cyan&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <!-- Top Languages Card -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3sam&layout=compact&theme=cyan&hide_border=true&count_private=true" />
 
-  <br /><br />
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3sam&theme=cyan&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7med3sam&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
 <div align="center">
 
-  <!-- Quotes Card -->
+  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyan" />
 
   <br /><br />
