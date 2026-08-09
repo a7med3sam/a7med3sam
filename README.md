@@ -1,25 +1,23 @@
 <div align="center">
 
-  <!-- Typing Header Animated Banner -->
+  <!-- Glow Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Ahmed+Essam;MERN+Stack+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vcenter=true&width=600&height=60&lines=%E2%9A%A1+AHMED+ESSAM+%E2%9A%A1;MERN+Stack+Software+Engineer;Building+Scalable+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Dynamic Typing Subtitle & Bio -->
   <p align="center">
-    🚀 <b>Full-Stack Developer</b> specializing in the <b>MERN</b> ecosystem. <br>
-    Crafting scalable web applications with clean code & modern user experiences.
+    💻 <b>MERN Stack Developer</b> specializing in crafting clean, high-performance web applications.
   </p>
 
-  <!-- Social Badges -->
+  <!-- Clean Pill Buttons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmed-essam-elhady/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:a7med3sam.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
 
@@ -27,65 +25,62 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Core Technologies
 
 <div align="center">
 
-| Area | Technologies & Tools |
+| Layer | Stack |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Frontend** | ![](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6) ![](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) |
+| **Backend** | ![](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E) ![](https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/NestJS-18181B?style=for-the-badge&logo=nestjs&logoColor=E0234E) |
+| **Database** | ![](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248) ![](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1) |
+| **Tools** | ![](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032) ![](https://img.shields.io/badge/NPM-18181B?style=for-the-badge&logo=npm&logoColor=CB3837) ![](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E) |
 
 </div>
 
 ---
 
-### 📊 GitHub Overview & Activity
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <!-- Interactive Dynamic Contribution Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a7med3sam&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F5FF&line=00F5FF&point=FFFFFF" alt="Ahmed's GitHub Activity Graph" />
+</div>
+
+<br />
 
 <div align="center">
 
-  <!-- Activity Snake Graphic -->
-  <h4>🐍 Contribution Graph Activity</h4>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a7med3sam/a7med3sam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a7med3sam/a7med3sam/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/a7med3sam/a7med3sam/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <!-- GitHub Performance Stats Side-by-Side -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=a7med3sam&show_icons=true&theme=cyan&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3sam&layout=compact&theme=cyan&hide_border=true" />
 
   <br /><br />
 
-  <!-- Cards Side by Side -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a7med3sam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7med3sam&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br /><br />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3sam&theme=tokyonight&hide_border=true" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7med3sam&theme=cyan&hide_border=true" />
 
 </div>
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7med3sam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=a7med3sam&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
 <div align="center">
 
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <!-- Quotes Card -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyan" />
 
   <br /><br />
 
-  <!-- Profile Visitors -->
-  👁️ <b>Profile Visitors:</b> 
-  <img src="https://visitcount.itsvg.in/api?id=a7med3sam&icon=5&color=1" alt="visitor count" />
+  <!-- Profile Visitor Counter -->
+  ⚡ <b>Profile Visits:</b> 
+  <img src="https://visitcount.itsvg.in/api?id=a7med3sam&icon=5&color=0" alt="visitors" />
 
 </div>
